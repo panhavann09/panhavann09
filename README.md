@@ -1,207 +1,110 @@
-<div align="center">
-
-<!-- Glitch Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,100:008f11&height=200&section=header&text=VANN%20PANHA&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=ROBOTICS%20%26%20AUTOMATION%20ENGINEER&descSize=18&descAlignY=55"/>
-
-<!-- Matrix Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=%3E+Building+Robots+That+Actually+Work;%3E+ROS2+%7C+MoveIt2+%7C+Motion+Planning;%3E+SCARA+Robot+Engineer;%3E+Embedded+Systems+%7C+PCB+Design;%3E+sudo+make+robot+move" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br/>
-
-<!-- Profile Stats -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/badge/Focus-Robotics-00ff41?style=flat-square" />
-<img src="https://img.shields.io/badge/Lives-Cambodia-00ff41?style=flat-square" />
-
-</div>
-
-<br/>
-
-## `> whoami`
-
-```bash
-┌──(panha㉿robotics-lab)-[~]
-└─$ cat about.txt
-
-Name      : VANN Panha
-Location  : Phnom Penh, Cambodia
-Education : Robotics & Automation @ ECAM LaSalle
-          : Mechanical Engineering @ ITC
-Status    : Building a 4-DOF SCARA Robot
-Mission   : Make machines do the heavy lifting
-
-┌──(panha㉿robotics-lab)-[~]
-└─$ echo $SKILLS
-[ROS2] [MoveIt2] [Python] [C/C++] [STM32] [PCB Design] [SolidWorks]
 ```
-
-<img align="right" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="350"/>
-
-### What I Do:
-- Design and build industrial robots
-- Develop motion planning algorithms
-- Create embedded control systems
-- Engineer PCBs for robot actuators
-- Break things, then fix them better
-
-<br clear="both"/>
-
----
-
-## `> ls -la /skills/`
-
-<div align="center">
-
-### PROGRAMMING
-```
-██████████████████████████████  Python      ████████████░░░░  75%
-██████████████████████████████  C/C++       ██████████████░░  85%
-██████████████████████████████  MATLAB      ████████████░░░░  70%
-██████████████████████████████  Bash        ██████████░░░░░░  60%
-```
-
-### TOOLS & FRAMEWORKS
-<p>
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/MoveIt2-1a1a2e?style=for-the-badge&logo=ros&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00ff41"/>
-</p>
-
-### HARDWARE & DESIGN
-<p>
-<img src="https://img.shields.io/badge/STM32-0d1117?style=for-the-badge&logo=stmicroelectronics&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/SolidWorks-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/KiCad-0d1117?style=for-the-badge&logo=kicad&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/PCB_Design-0d1117?style=for-the-badge&logoColor=00ff41"/>
-</p>
-
-</div>
-
----
-
-## `> cat /projects/featured.log`
-
-<div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                          4-DOF SCARA ROBOT [THESIS]                          ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃  > Actuators    : Stepper Motors + BLDC Motors                               ┃
-┃  > End Effector : Pneumatic Vacuum Gripper                                   ┃
-┃  > Kinematics   : Forward & Inverse Solutions Implemented                    ┃
-┃  > Software     : ROS2 + MoveIt2 Real-time Motion Planning                   ┃
-┃  > Status       : [████████████████████] 100% OPERATIONAL                    ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                    ROBOCON NATIONAL COMPETITION                              ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃  [2022] Electronics Team Lead     --> 2ND RUNNER-UP                          ┃
-┃  [2023] Mechanical Design Lead    --> 2ND RUNNER-UP                          ┃
-┃  > Built competition robots from scratch                                     ┃
-┃  > Designed control systems & mechanical assemblies                          ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-</div>
-
----
-
-## `> work --history`
-
-```bash
-┌──(panha㉿ai-farm-robotics)-[~/internship]
-└─$ tree experience/
-experience/
-├── PCB_Design/
-│   ├── stepper_motor_drivers.kicad
-│   └── 3dof_robot_arm_electronics.kicad
-├── BMS_Development/
-│   └── quadruped_robot_battery_system.c
-└── Validation/
-    └── stm32_testing_protocols.md
-
-3 directories, 4 files
-
-┌──(panha㉿ai-farm-robotics)-[~/internship]
-└─$ echo "Status: Mission Accomplished"
+╔════════════════════════════════════════════════════════════════╗
+║                    VANN PANHA                                  ║
+║                ROBOTICS & AUTOMATION ENGINEER                  ║
+║         Designing machines that move with precision            ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `> neofetch --github`
+## ⚙️ CORE ENGINEERING STACK
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00ff41&text_color=00ff41&bg_color=0d1117" />
-</div>
+### 🔧 Programming Languages
+```
+C/C++          ████████████████░░░░  85%  │  Primary embedded systems
+Python         ███████████████░░░░░░  75%  │  Robotics & automation
+MATLAB         ██████████████░░░░░░░  70%  │  Motion planning & analysis
+Bash           ████████████░░░░░░░░░  60%  │  System automation
+```
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX" width="100%"/>
+### 🤖 Robotics & Embedded Systems
+`ROS2` • `MoveIt2` • `STM32` • `Arduino` • `Linux` • `Ubuntu` • `KiCad` • `SolidWorks` • `PCB Design` • `BLDC Motors` • `Stepper Motors` • `Git`
 
 ---
 
-## `> cat /etc/languages`
+## 🚀 FEATURED PROJECT: 4-DOF SCARA ROBOT
 
-```bash
-LANG_KHMER="Native"       # ████████████████████ 100%
-LANG_ENGLISH="Good"       # ███████████████░░░░░  75%
-LANG_FRENCH="Average"     # ██████████░░░░░░░░░░  50%
+**Full end-to-end autonomous robot design**
+
 ```
+SPECIFICATIONS
+├── Kinematics       → Forward & Inverse kinematics optimization
+├── Motion Control   → ROS2 + MoveIt2 real-time planning
+├── Actuation        → Stepper motors + BLDC motor drivers
+├── Gripper          → Pneumatic vacuum end-effector
+└── Firmware         → Production-ready C/C++ control systems
+
+STATUS: ✅ OPERATIONAL
+```
+
+**Tech Stack:** `ROS2` `MoveIt2` `Kinematics` `Embedded C` `BLDC` `Pneumatics`
 
 ---
 
-## `> ping contact@panha`
+## 📂 PROJECT PORTFOLIO
 
-<div align="center">
+### ⚡ PCB Design — Motor Drivers
+Custom-designed KiCad PCBs for stepper motor drivers and 3-DOF robot arm electronics. Internship work at AI Farm Robotics with full schematic validation and manufacturing optimization.
 
-```
-PING contact@panha (192.168.1.1): 56 data bytes
-64 bytes from panha: icmp_seq=0 ttl=64 time=0.042 ms
+**Stack:** `KiCad` `PCB Design` `EDA` `Motor Control`
 
---- CONTACT ESTABLISHED ---
-```
+---
 
-<a href="mailto:panhavann09@gmail.com"><img src="https://img.shields.io/badge/EMAIL-panhavann09@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41"/></a>
-<a href="https://t.me/+85514699106"><img src="https://img.shields.io/badge/TELEGRAM-Contact-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff41"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-Follow-0d1117?style=for-the-badge&logo=github&logoColor=00ff41"/></a>
+### 🔋 Battery Management System — Quadruped Robot
+Firmware development for quadruped robot BMS including charge monitoring, cell balancing, and thermal management. STM32-based implementation with comprehensive testing protocols.
 
-</div>
+**Stack:** `C` `STM32` `Embedded Systems` `Power Management`
+
+---
+
+## 💼 PROFESSIONAL EXPERIENCE
+
+| Role | Organization | Year | Achievement |
+|------|--------------|------|-------------|
+| **PCB & Embedded Systems Engineer** | AI Farm Robotics | 2024 | Motor driver design · BMS firmware · STM32 validation |
+| **Mechanical Design Lead** | Robocon National | 2023 | 🥈 2nd Runner-Up · Structural optimization · Actuator integration |
+| **Electronics Team Lead** | Robocon National | 2022 | 🥈 2nd Runner-Up · System architecture · Firmware development |
+
+---
+
+## 🗣️ LANGUAGE PROFICIENCY
+
+| Language | Fluency | Certification |
+|----------|---------|---------------|
+| **Khmer** | Native Speaker | — |
+| **English** | Fluent | Professional working level |
+| **French** | Intermediate | DALF preparation |
+
+---
+
+## 📍 LOCATION & EDUCATION
+
+**Phnom Penh, Cambodia** · ECAM LaSalle (France) · ITC (Cambodia)
+
+---
+
+## 🔗 CONNECT WITH ME
+
+| Platform | Link |
+|----------|------|
+| **GitHub** | [github.com/vannpanha](https://github.com) |
+| **LinkedIn** | [linkedin.com/in/vannpanha](https://linkedin.com) |
+| **Email** | [vann@robotics.dev](mailto:vann@robotics.dev) |
+| **Portfolio** | [vannpanha.dev](https://vannpanha.dev) |
+
+---
+
+## 💡 ENGINEERING PHILOSOPHY
+
+*Making machines do the heavy lifting.* Every line of embedded code, every PCB trace, and every mechanical assembly is engineered with precision, reliability, and purpose. From bare metal to fully operational autonomous systems.
 
 ---
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   "I don't just write code. I engineer machines that move."                 │
-│                                                                             │
-│                                              - VANN Panha                   │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+**© 2024 VANN PANHA** | Robotics Engineer | Currently Building SCARA Systems
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+*Precision · Innovation · Automation*
 
 </div>
