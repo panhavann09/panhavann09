@@ -34,9 +34,8 @@ struct Engineer {
     string location = "🇰🇭 Cambodia";
     string role = "Mechanical & Robotics Engineer";
     vector<string> expertise = {
-        "Robotics Control Systems",
-        "PCB Design & Electronics", 
-        "Embedded Firmware",
+        "Robotics Control System",
+        "PCB Design & Electronics",
         "Mechanical CAD Design"
     };
     vector<string> learning = {
